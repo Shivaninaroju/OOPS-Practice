@@ -1,6 +1,6 @@
 # Python Practice Repository
 
-This repository contains various Python practice exercises and examples, focused on enhancing my programming skills through hands-on experience with different Python concept
+This repository contains various Python practice exercises and examples, focused on enhancing my programming skills through hands-on experience with different Python concepts.
 
 
 ## Introduction
