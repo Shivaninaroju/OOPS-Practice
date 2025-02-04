@@ -4,7 +4,7 @@ class Student:
     
 print(Student.__doc__)
 help(Student)
- #Example
+ #Example on methods and object creation
 class Student:
     def __init__(self):
         self.name="Shivani"
