@@ -16,3 +16,6 @@ class Student:
         print("My rno is:",self.rno)
 s=Student()
 s.talk()
+print(s.name)
+print(s.age)
+print(s.rno)
