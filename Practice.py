@@ -23,3 +23,5 @@ print(s.rno)
 s1=Student()
 s2=Student()
 #Constructor is executed 2 times beacause of two different objects
+print(id(s1))
+print(id(s2))
