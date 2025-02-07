@@ -43,3 +43,9 @@ s3=Student("Kavya",18,206)
 s1.talk()
 s2.talk()
 s3.talk()
+
+class Test:
+    def __init__(self):
+        print("Address referred by self:",id(self))
+t=Test()
+print("Address referred by t:",id(t))
