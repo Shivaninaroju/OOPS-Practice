@@ -29,7 +29,7 @@ print(id(s2))
 #Day-2
 ##To execute multiple students information
 class Student:
-    def __init__(self,name,age,rno):
+    def __init__(self,name,age,rno):   ##Self is reference variable pointing to current object and used to access obj values inside class.
         self.name=name
         self.age=age
         self.rno=rno
