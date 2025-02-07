@@ -15,7 +15,7 @@ class Student:
         print("My name is:",self.name)
         print("My age is:",self.age)
         print("My rno is:",self.rno)
-s=Student()
+s=Student()  #Creating 's' reference variable
 s.talk()
 print(s.name)
 print(s.age)
